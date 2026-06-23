@@ -1,0 +1,1 @@
+# script-jump-and-speed-easy-mode
